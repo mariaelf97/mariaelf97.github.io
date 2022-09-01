@@ -1,2 +1,5 @@
-# mariaelf97.github.io
-Trial website for BDA class
+## [Adult income dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
+### from Kaggle is a dataset with 15 attributes including age, work class, education etc. This dataset can be used to build a classification model to classify a person as a high/low- or medium-income individual. This information then can be potentially used by government to analyze the hierarchy of society and distribution of money in different cities. This would eventually help adjusting government policies (including tax rate etc.) for each class of the society.This dataset can be used to build a classification model to classify a person as a high/low- or medium-income individual. This information then can be potentially used by government to analyze the hierarchy of society and distribution of money in different cities. This would eventually help adjusting government policies (including tax rate etc.) for each class of the society.
+
+## [Data science at the command lines](https://www.oreilly.com/library/view/data-science-at/9781491947845/)
+## is a book that is designed for data scientists to learn basics of command lines to manipulate data. I found this book very intriguing because I think the importance of learning unix command lines has been under-estimated in educating future data scientists. For instance, I only realized the importance of learning command lines after joining projects related to bioinformatics. It is used on daily-basis, and it is essential knowledge for all data scientists. 
